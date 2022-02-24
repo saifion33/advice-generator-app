@@ -21,7 +21,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### Links
 
 - Solution : [solution on frontend menter](https://your-solution-url.com)
-- Live Site : [See live preview](https://qr-code-component-preview.netlify.app/)
+- Live Site : [See live preview](https://saifion33.github.io/advice-generator-app/)
 
 ## My process
 
