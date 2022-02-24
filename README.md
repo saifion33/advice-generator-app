@@ -14,7 +14,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Advice genrator screenshot](https://github.com/saifion33/advice-generator-app-main/blob/main/images/Screenshot%20Advice%20Generator.png)
+![Advice genrator screenshot](https://github.com/saifion33/advice-generator-app/blob/main/images/Screenshot%20%20Advice%20Generator.png)
 
 
 
