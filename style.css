@@ -36,6 +36,7 @@ main{
 }
 #advice-id{
     color: var(--Neon-Green);
+    font-size:32px;
 }
 #quotes-container{
     color: var(--Light-Cyan);
